@@ -1,6 +1,6 @@
 # employeeData
 Research for Engineering firm on employees from 1980s to the 1990s
-Analyzing sql database of Employee Data
+# Analyzing sql database of Employee Data
   - Retrieving the data on each employee: Employee Number, First Name, Last Name, Gender and Salary
   - Retrieving employees hired in 1986
   - Retrieving manager for each department: Department Number, Department Name, Employee Number, First Name, Last Name, Start and End Dates
@@ -9,6 +9,6 @@ Analyzing sql database of Employee Data
   - Retrieving Sales department employees: Employee number, Last name, First name, and Department Name
   - Retrieving Sales and Development department employees: Employee Number, Last name, First name, and Department Name
   - Listing the frequency count of shared Employee Last Names, descending order
- Visualization
+ # Visualization
   - Histogram: Most common salary ranges for employees
   - Bar Chart: Average Salary by Title
