@@ -1,6 +1,8 @@
 # employeeData
 Research for Engineering firm on employees from 1980s to the 1990s
 
+# ERD
+
 ![ERD](https://github.com/ph1-618O/employeeData/blob/master/ERD.png)
 
 # Analyzing SQL Database of Employee Data
